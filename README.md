@@ -18,7 +18,7 @@ Draw your own patterns and watch them evolve using Conway’s Game of Life rules
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/cellular-automata.git
+git clone https://github.com/svelkovski/cellular-automata.git
 cd cellular-automata
 ```
 
