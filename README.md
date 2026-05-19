@@ -24,7 +24,7 @@ cd cellular-automata
 
 2. Install dependencies:
 ```bash
-pip install pygame
+pip install pygame-ce
 ```
 
 3. Run the program:
